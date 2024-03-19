@@ -8,11 +8,11 @@
 
 <br/>
 
-<div align="center">
+<div align="center"> 
+
+ 🔭  I’m currently working on ***Now available for work***
  
- 🔭 I’m currently working on <span style="color: red;">available now</span>
- 
- 🌱 I’m currently learning **php, laravel**
+ 🌱 I’m currently learning **php, laravel** 
 
 💬 Ask me about **php, laravel ,html ,css, ... or anything [here](https://github.com/MohammedYasserQabbani/MohammedYasserQabbani/issues)**
 
