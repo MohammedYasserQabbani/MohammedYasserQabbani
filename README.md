@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammed+Yasser+Qabbani!;" />
 </h1>
 
-<h3 align="center">Software developer from Syria</h3>
+<h3 align="center">Software Engineer from Syria</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **available now**
+ 🔭 I’m currently working on <span style="color: red;">available now</span>
  
  🌱 I’m currently learning **php, laravel**
 
